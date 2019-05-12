@@ -1,0 +1,39 @@
+c:\users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\Ana Ekran.exe.config
+c:\users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\Ana Ekran.exe
+c:\users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\Ana Ekran.pdb
+c:\users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana Ekran.csprojResolveAssemblyReference.cache
+c:\users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana_Ekran.Form1.resources
+c:\users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana_Ekran.Properties.Resources.resources
+c:\users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana Ekran.csproj.GenerateResource.Cache
+c:\users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana Ekran.exe
+c:\users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana Ekran.pdb
+c:\users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana_Ekran.Login.resources
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana_Ekran.kullanici_tanitma.resources
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana_Ekran.poliklinik_tanitma.resources
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana_Ekran.kullanici.resources
+C:\Users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana_Ekran.poliklinik.resources
+C:\Users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana_Ekran.Hastaİslemleri.resources
+C:\Users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana_Ekran.HastaBulmaEkranı.resources
+C:\Users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana_Ekran.TaburcuEkrani.resources
+C:\Users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana_Ekran.HastaBilgileri.resources
+C:\Users\kemal\documents\visual studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana_Ekran.RaporEkrani.resources
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\obj\Debug\Ana_Ekran.RaporEkraniCrystal.resources
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\FlashControlV71.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kemal\Documents\Visual Studio 2015\Projects\Saglık_Ocagi_Otomasyon\Ana Ekran\bin\Debug\stdole.dll
